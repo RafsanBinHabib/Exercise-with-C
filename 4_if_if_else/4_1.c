@@ -10,12 +10,12 @@ int main()
 
     if (n % 2 == 0)
     {
-        printf("%d is a odd number.\n", n);
+        printf("%d is a even number.\n", n);
     }
 
     else
     {
-        printf("%d is an even number.\n", n);
+        printf("%d is an odd number.\n", n);
     }
 
     return 0;
